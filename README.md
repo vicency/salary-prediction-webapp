@@ -1,4 +1,4 @@
-````markdown name=README.md
+
 # Workers Salary Prediction Model
 
 This repository contains a machine learning project for predicting workers' salaries based on various demographic and job-related features. The project uses Python, pandas, scikit-learn, and seaborn for data analysis, preprocessing, visualization, and modeling.
